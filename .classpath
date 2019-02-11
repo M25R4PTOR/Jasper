@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/workspace/Jasper/lib/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/workspace/Jasper/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/workspace/Jasper/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/workspace/Jasper/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/workspace/Jasper/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/workspace/Jasper/lib/itext-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/workspace/Jasper/lib/jasperreports-javaflow-6.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/workspace/Jasper/lib/net.tascalate.javaflow.api-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/workspace/Jasper/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/formacion/Downloads/commons-codec-1.11/commons-codec-1.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
